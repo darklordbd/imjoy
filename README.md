@@ -1,2 +1,0 @@
-# imjoy
-My Personal Website
